@@ -1,0 +1,10 @@
+div.time, .text {
+    display: flex;
+    justify-content: center;
+}
+
+.time h1, .text p {
+    border: solid 2px red;
+    margin: 5px;
+    padding: 5px
+}
